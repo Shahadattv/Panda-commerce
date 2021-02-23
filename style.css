@@ -1,0 +1,83 @@
+.header{
+    height: 500px;
+}
+h1{
+    font-weight: 700;
+}
+.font{
+    color: tomato;
+    padding-top: 15%;
+}
+.BABU{
+    margin-top: 5%;
+    height: 80%;
+}
+.NAVBAR{
+   margin-bottom: 20PX;
+
+}
+
+
+.NAVBAR img{
+    width: 150px;
+    height:40px;
+    
+}
+.TOP-SECTION{
+    width: 100%;
+    height: 350px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:7%;
+    padding-left:5%;
+}
+.half-width img{
+    width:80%;
+
+}
+.BUTTON{
+    margin-top: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+}
+.card img{
+   
+    height: 50%;
+    padding: 20px;
+
+}
+.section-2{
+    height: 300px;
+    
+}
+
+.footer{  
+    font-weight: 300;
+    width: 40%;
+    float: left;
+    margin-left:20PX;
+    padding-left:3%;
+    
+
+   
+}
+.footer img{
+    height:290px;
+    width:500px;
+
+}
+.footer-card img{
+    height: 100%;
+    width: 60px;
+    color: red;
+    float: left;
+    margin: 15px;
+}
+    
+
